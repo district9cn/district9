@@ -1,4 +1,0 @@
-2014/11/26 09:31:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '3ca97q29aob7qvu5lmrje2egh4'
-2014/11/26 09:31:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('3ca97q29aob7qvu5lmrje2egh4', '', '2014-11-26 09:31:46')
-2014/11/26 09:31:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-26 09:01:46'
-2014/11/26 09:31:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-26 09:01:46'
