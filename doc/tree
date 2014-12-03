@@ -1,0 +1,91 @@
+.
+├── control                         //控制层 控制而非的跳转
+│   ├── docker_add.php                      //docker操作控制，如：添加，删除，运行，重命名
+│   ├── docker_chname.php
+│   ├── docker_create.php
+│   ├── docker_del.php
+│   ├── docker_lunch.php
+│   ├── user_chpass.php                     //用户的操作，如：更改密码，登陆，登出，注册
+│   ├── user_login.php
+│   ├── user_logout.php
+│   └── user_reg.php
+├── core                            //主要的类
+│   ├── Application.php                     //用文件模拟Application全局变量
+│   ├── Config.php                          //用于获取配置信息操作类
+│   ├── conf.php                            //存放配置信息，如数据库配置，session cookie配置，错误信息配置等
+│   ├── Cookie.ph                           //cookie的操作封装
+│   ├── FleetCtl.php                        //fleetctl操作封装，如创建docker，删除docker等
+│   ├── Hash.php                            //生成hash值
+│   ├── init.ph                             //初始化工作
+│   ├── Port.php                            //端口的封装，使用全局变量存放
+│   ├── Redirect.php                        //页面的重定向操作
+│   ├── Session.php                         //session的操作
+│   ├── Ssh.php                             //ssh操作的封装
+│   ├── Token.php                           //生成Token,用于防止csrf的功击
+│   └── Validation.php                      //输入验证类
+├── doc                              //文档存放
+│   ├── mysql.sql                            //建表语句
+│   ├── ssh                                  //ssh2模块安装
+│   └── tree                                 //本文件，项目文件描述
+├── etc                                      //配置文件存放
+│   ├── Application                          //保存Application数据
+│   ├── conf.sh                              //项目配置
+│   ├── fleetctl                             //fleetctl使用的配置文件模板
+│   │   ├── owncloud_example
+│   │   ├── postgres_example
+│   │   └── ubuntussh_example
+│   └── ssh                                  //ssh key 文件，用于key文件登陆
+│       ├── id_rsa
+│       └── id_rsa.pub
+├── index.php                       //主页
+├── log                                     //日志存放
+│   └── var
+│       └── log
+│           └── 2014
+│               └── 11
+│                   ├── 2014-11-18.log
+│                   ├── 2014-11-19.log
+│                   ├── 2014-11-20.log
+│                   └── 2014-11-21.log
+├── model                           //模型层 对应数据库模型操作
+│   ├── CookieModel.php
+│   ├── DbModle.php
+│   ├── DockerModel.php
+│   ├── SessionModel.php
+│   └── UserModel.php
+├── plog                            //日志系统
+│   ├── classes
+│   │   ├── plog
+│   │   │   ├── formatter.php
+│   │   │   └── handler
+│   │   │       ├── abstract.php
+│   │   │       └── file.php
+│   │   └── plog.php
+│   └── config.php
+├── static                          //存放静态资源，如js脚本，css脚本和图片
+│   ├── images
+│   ├── javascripts
+│   │   ├── bootstrap.js
+│   │   ├── bootstrap.min.js
+│   │   ├── jquery.js
+│   │   ├── jquery.min.js
+│   │   ├── term.js
+│   │   └── wssh.js
+│   └── stylesheets
+│       ├── bootstrap.css
+│       ├── bootstrap.min.css
+│       ├── bootstrap-responsive.css
+│       └── style.css
+├── temp                            //用于临时存放fleetctl配置文件
+└── view                            //视图层 用于界面的展示
+    ├── chpass.php
+    ├── header.php
+    ├── home.php
+    ├── index.php
+    ├── login.php
+    ├── register.php
+    ├── ssh.php
+    ├── tail.php
+    └── user.php
+
+22 directories, 66 files

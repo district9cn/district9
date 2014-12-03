@@ -1,0 +1,468 @@
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"499d67e15cef3523487c5929b173bd65b524134ebc1dcda48cb3bb58d2ca5ce2";userid|s:1:"8";docker|s:32:"5aaff9ab401715aaff2affab6cc7bb93";port|s:4:"1104";server|s:12:"192.168.1.91";', '2014-11-24 09:25:12')
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:12'
+2014/11/24 09:25:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:12'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"499d67e15cef3523487c5929b173bd65b524134ebc1dcda48cb3bb58d2ca5ce2";userid|s:1:"8";docker|s:32:"5aaff9ab401715aaff2affab6cc7bb93";port|s:4:"1104";server|s:12:"192.168.1.91";', '2014-11-24 09:25:20')
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:20'
+2014/11/24 09:25:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:20'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"499d67e15cef3523487c5929b173bd65b524134ebc1dcda48cb3bb58d2ca5ce2";userid|s:1:"8";docker|s:32:"5aaff9ab401715aaff2affab6cc7bb93";port|s:4:"1104";server|s:12:"192.168.1.91";', '2014-11-24 09:25:21')
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:21'
+2014/11/24 09:25:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:21'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM cookies WHERE userid = '8'
+2014/11/24 09:25:28 INFO [/home/bin117/workspace/docker/control/user_logout.php:15] 127.0.0.1 admin logout access
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'sucess|s:12:"logoutsucess";', '2014-11-24 09:25:28')
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', '', '2014-11-24 09:25:28')
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:28'
+2014/11/24 09:25:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"3f25c9ad2963a6385b88baf3d44bb7e70f18d6ed25a8c72b9b0e0351beef0630";', '2014-11-24 09:25:30')
+2014/11/24 09:25:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:30'
+2014/11/24 09:25:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:30'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE username = 'admin'
+2014/11/24 09:25:35 INFO [/home/bin117/workspace/docker/control/user_login.php:33] 127.0.0.1 admin login access
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"3f25c9ad2963a6385b88baf3d44bb7e70f18d6ed25a8c72b9b0e0351beef0630";userid|s:1:"8";sucess|s:11:"loginsucess";', '2014-11-24 09:25:35')
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:35'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:35'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'b2ltel690fh3p3schemjk5cof0'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('b2ltel690fh3p3schemjk5cof0', 'token|s:64:"3f25c9ad2963a6385b88baf3d44bb7e70f18d6ed25a8c72b9b0e0351beef0630";userid|s:1:"8";', '2014-11-24 09:25:35')
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:35'
+2014/11/24 09:25:35 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:35'
+2014/11/24 09:25:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', '', '2014-11-24 09:25:45')
+2014/11/24 09:25:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:45'
+2014/11/24 09:25:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:45'
+2014/11/24 09:25:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'token|s:64:"d3f9a12bc219b1e80843a0a157e1dc62c4f34ce1f45b27a899b46d2a2466bf9c";', '2014-11-24 09:25:48')
+2014/11/24 09:25:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:48'
+2014/11/24 09:25:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:48'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE username = 'admin'
+2014/11/24 09:25:53 WARN [/home/bin117/workspace/docker/control/user_login.php:37] 127.0.0.1 admin login fail
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'token|s:64:"d3f9a12bc219b1e80843a0a157e1dc62c4f34ce1f45b27a899b46d2a2466bf9c";error|s:11:"loginfailed";userinfo|s:56:"a:2:{s:8:"username";s:5:"admin";s:4:"name";s:5:"admin";}";', '2014-11-24 09:25:53')
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:53'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:53'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'token|s:64:"3593081cf0cb627b9074614c6d479bb2d55e915961c197c708f8ccfa7f361cdf";', '2014-11-24 09:25:53')
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:53'
+2014/11/24 09:25:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:53'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE username = 'admin'
+2014/11/24 09:25:57 INFO [/home/bin117/workspace/docker/control/user_login.php:33] 127.0.0.1 admin login access
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'token|s:64:"3593081cf0cb627b9074614c6d479bb2d55e915961c197c708f8ccfa7f361cdf";userid|s:1:"8";sucess|s:11:"loginsucess";', '2014-11-24 09:25:57')
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:57'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:57'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'token|s:64:"3593081cf0cb627b9074614c6d479bb2d55e915961c197c708f8ccfa7f361cdf";userid|s:1:"8";', '2014-11-24 09:25:57')
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 08:55:57'
+2014/11/24 09:25:57 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 08:55:57'
+2014/11/24 12:53:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 12:53:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', '', '2014-11-24 12:53:10')
+2014/11/24 12:53:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:23:10'
+2014/11/24 12:53:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:23:10'
+2014/11/24 12:53:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 12:53:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', '', '2014-11-24 12:53:18')
+2014/11/24 12:53:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:23:18'
+2014/11/24 12:53:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:23:18'
+2014/11/24 12:53:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 12:53:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', '', '2014-11-24 12:53:29')
+2014/11/24 12:53:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:23:29'
+2014/11/24 12:53:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:23:29'
+2014/11/24 13:03:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', '', '2014-11-24 13:03:22')
+2014/11/24 13:03:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:22'
+2014/11/24 13:03:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:22'
+2014/11/24 13:03:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', '', '2014-11-24 13:03:26')
+2014/11/24 13:03:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:26'
+2014/11/24 13:03:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:26'
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl start /root/fleetctl/f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 192.168.251.71 Unit f33ff16a019b0052aca2bb807e00ff20.service launched on 72ddf216.../192.168.1.42
+
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:34')
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:34'
+2014/11/24 13:03:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:34'
+2014/11/24 13:03:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:34')
+2014/11/24 13:03:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:34'
+2014/11/24 13:03:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:34'
+2014/11/24 13:03:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:45')
+2014/11/24 13:03:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:45'
+2014/11/24 13:03:45 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:45'
+2014/11/24 13:03:50 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:50 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:50')
+2014/11/24 13:03:50 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:50'
+2014/11/24 13:03:50 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:50'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:54')
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:54'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:54'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:03:54')
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:33:54'
+2014/11/24 13:03:54 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:33:54'
+2014/11/24 13:05:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:05:28')
+2014/11/24 13:05:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:28'
+2014/11/24 13:05:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:28'
+2014/11/24 13:05:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";', '2014-11-24 13:05:29')
+2014/11/24 13:05:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:29'
+2014/11/24 13:05:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:29'
+2014/11/24 13:05:32 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:32 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"e924175ba2ea1a4162a3715cef9a67902652a98cbba30ecf6cb94346afb7bf7c";', '2014-11-24 13:05:32')
+2014/11/24 13:05:32 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:33'
+2014/11/24 13:05:32 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:33'
+2014/11/24 13:05:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"3a1c90eb8c1d4e7ec6a100efe29411069da1e077cfdc21f8994a94b902649480";', '2014-11-24 13:05:34')
+2014/11/24 13:05:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:34'
+2014/11/24 13:05:34 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:34'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"3a1c90eb8c1d4e7ec6a100efe29411069da1e077cfdc21f8994a94b902649480";error|s:15:"pass_lessthan_6";userinfo|s:86:"a:3:{s:8:"username";s:4:"zhou";s:4:"name";s:4:"zhou";s:4:"mail";s:13:"zhou@zhou.com";}";', '2014-11-24 13:05:51')
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:51'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:51'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"109417bda2afa32314672293ec09e86cb3fb81dc1697d57747276eb85677dca3";', '2014-11-24 13:05:51')
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:51'
+2014/11/24 13:05:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:51'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:128] 192.168.251.71 INSERT INTO users(username,userpass,salt,name,mail,joined,groupid) VALUES('zhou','0688dab0d60a7a99dcf06b50fbb7917448702b32aa73905e11cf9b77aaf666b2','caaa78ea196352fe3725f691b682d994','zhou','zhou@zhou.com','2014-11-24 13:05:59','1')
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 INSERT INTO users(username,userpass,salt,name,mail,joined,groupid) VALUES('zhou','0688dab0d60a7a99dcf06b50fbb7917448702b32aa73905e11cf9b77aaf666b2','caaa78ea196352fe3725f691b682d994','zhou','zhou@zhou.com','2014-11-24 13:05:59','1')
+2014/11/24 13:05:59 INFO [/home/bin117/workspace/docker/control/user_reg.php:53] 192.168.251.71 zhou register access
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"109417bda2afa32314672293ec09e86cb3fb81dc1697d57747276eb85677dca3";sucess|s:9:"regsucess";', '2014-11-24 13:05:59')
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:59'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:59'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"109417bda2afa32314672293ec09e86cb3fb81dc1697d57747276eb85677dca3";', '2014-11-24 13:05:59')
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:35:59'
+2014/11/24 13:05:59 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:35:59'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"109417bda2afa32314672293ec09e86cb3fb81dc1697d57747276eb85677dca3";', '2014-11-24 13:06:01')
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:01'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:01'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"109417bda2afa32314672293ec09e86cb3fb81dc1697d57747276eb85677dca3";', '2014-11-24 13:06:01')
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:01'
+2014/11/24 13:06:01 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:01'
+2014/11/24 13:06:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";', '2014-11-24 13:06:13')
+2014/11/24 13:06:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:13'
+2014/11/24 13:06:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:13'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM cookies WHERE userid = '11'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:128] 192.168.251.71 INSERT INTO cookies(userid,hash,created) VALUES('11','ed2528d28375a60494a5b925f7a97063371ca49fa034ed2f18586253a8e6c11e','2014-11-24 13:06:18')
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 INSERT INTO cookies(userid,hash,created) VALUES('11','ed2528d28375a60494a5b925f7a97063371ca49fa034ed2f18586253a8e6c11e','2014-11-24 13:06:18')
+2014/11/24 13:06:18 INFO [/home/bin117/workspace/docker/control/user_login.php:33] 192.168.251.71 zhou login access
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";sucess|s:11:"loginsucess";', '2014-11-24 13:06:18')
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:18'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:18'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'newdocker|s:32:"f33ff16a019b0052aca2bb807e00ff20";port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:18')
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:18'
+2014/11/24 13:06:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:18'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:128] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','f33ff16a019b0052aca2bb807e00ff20','f33ff16a019b0052aca2bb807e00ff20','1114','2014-11-24 13:06:21')
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','f33ff16a019b0052aca2bb807e00ff20','f33ff16a019b0052aca2bb807e00ff20','1114','2014-11-24 13:06:21')
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:21')
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:21'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:21'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl list-units | grep f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl stop f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl destroy f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 ssh 192.168.1.42 docker rm f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:23')
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:23'
+2014/11/24 13:06:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:23'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:26')
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:26'
+2014/11/24 13:06:26 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:26'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl list-units | grep f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 cat fleetctl/f33ff16a019b0052aca2bb807e00ff20 | grep run
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";error|s:11:"lunchfailed";', '2014-11-24 13:06:29')
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:29'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:29'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:29')
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:29'
+2014/11/24 13:06:29 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:29'
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl stop f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 192.168.251.71 
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl list-units | grep f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl stop f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl destroy f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 ssh  docker rm f33ff16a019b0052aca2bb807e00ff20
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM dockers WHERE id = 'f33ff16a019b0052aca2bb807e00ff20'
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";sucess|s:12:"deletesucess";', '2014-11-24 13:06:49')
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:49'
+2014/11/24 13:06:48 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:49'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1114;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:06:49')
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:36:49'
+2014/11/24 13:06:49 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:36:49'
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl start /root/fleetctl/97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 192.168.251.71 Unit 97cc434e8bd69a5e69feee94078cb4cf.service launched on 72ddf216.../192.168.1.42
+
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:128] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','97cc434e8bd69a5e69feee94078cb4cf','zhou','1115','2014-11-24 13:07:00')
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','97cc434e8bd69a5e69feee94078cb4cf','zhou','1115','2014-11-24 13:07:00')
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:07:00')
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:00'
+2014/11/24 13:06:53 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:37:00'
+2014/11/24 13:07:00 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:07:00 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:00 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:07:00')
+2014/11/24 13:07:00 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:00'
+2014/11/24 13:07:00 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:37:00'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:07:18')
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:18'
+2014/11/24 13:07:18 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:37:18'
+2014/11/24 13:07:23 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:07:23 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', '', '2014-11-24 13:07:23')
+2014/11/24 13:07:23 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:23'
+2014/11/24 13:07:23 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:37:23'
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl start /root/fleetctl/4162f55baba29d919e10232b1127f0a8
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 127.0.0.1 Unit 4162f55baba29d919e10232b1127f0a8.service launched on 98f3d166.../192.168.1.90
+
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'newdocker|s:32:"4162f55baba29d919e10232b1127f0a8";port|i:1116;server|s:12:"192.168.1.90";', '2014-11-24 13:07:30')
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:30'
+2014/11/24 13:07:25 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:37:30'
+2014/11/24 13:07:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:07:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'newdocker|s:32:"4162f55baba29d919e10232b1127f0a8";port|i:1116;server|s:12:"192.168.1.90";', '2014-11-24 13:07:30')
+2014/11/24 13:07:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:30'
+2014/11/24 13:07:30 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:37:30'
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl stop 97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 192.168.251.71 Unit 97cc434e8bd69a5e69feee94078cb4cf.service loaded on 72ddf216.../192.168.1.42
+
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl list-units | grep 97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl stop 97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl destroy 97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 ssh 192.168.1.42 docker rm 97cc434e8bd69a5e69feee94078cb4cf
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM dockers WHERE id = '97cc434e8bd69a5e69feee94078cb4cf'
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";sucess|s:12:"deletesucess";', '2014-11-24 13:07:44')
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:44'
+2014/11/24 13:07:41 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:37:44'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:07:44')
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:37:44'
+2014/11/24 13:07:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:37:44'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1115;server|s:12:"192.168.1.42";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:08:04')
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:04'
+2014/11/24 13:08:04 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:38:04'
+2014/11/24 13:08:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:08:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'newdocker|s:32:"4162f55baba29d919e10232b1127f0a8";port|i:1116;server|s:12:"192.168.1.90";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";', '2014-11-24 13:08:20')
+2014/11/24 13:08:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:20'
+2014/11/24 13:08:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:20'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE username = 'admin'
+2014/11/24 13:08:28 INFO [/home/bin117/workspace/docker/control/user_login.php:33] 127.0.0.1 admin login access
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'newdocker|s:32:"4162f55baba29d919e10232b1127f0a8";port|i:1116;server|s:12:"192.168.1.90";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";sucess|s:11:"loginsucess";', '2014-11-24 13:08:28')
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:28'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:28'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'newdocker|s:32:"4162f55baba29d919e10232b1127f0a8";port|i:1116;server|s:12:"192.168.1.90";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";', '2014-11-24 13:08:28')
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:28'
+2014/11/24 13:08:28 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:28'
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl list-units | grep 4162f55baba29d919e10232b1127f0a8
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl stop 4162f55baba29d919e10232b1127f0a8
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl destroy 4162f55baba29d919e10232b1127f0a8
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 ssh 192.168.1.90 docker rm 4162f55baba29d919e10232b1127f0a8
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'port|i:1116;server|s:12:"192.168.1.90";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";', '2014-11-24 13:08:34')
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:34'
+2014/11/24 13:08:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:34'
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl start /root/fleetctl/0211697a052a27ee86bf1f88b687531b
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 127.0.0.1 Unit 0211697a052a27ee86bf1f88b687531b.service launched on 72ddf216.../192.168.1.42
+
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'newdocker|s:32:"0211697a052a27ee86bf1f88b687531b";port|i:1117;server|s:12:"192.168.1.42";', '2014-11-24 13:08:51')
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:51'
+2014/11/24 13:08:44 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:51'
+2014/11/24 13:08:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 13:08:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'newdocker|s:32:"0211697a052a27ee86bf1f88b687531b";port|i:1117;server|s:12:"192.168.1.42";', '2014-11-24 13:08:51')
+2014/11/24 13:08:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:38:51'
+2014/11/24 13:08:51 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:38:51'
+2014/11/24 13:09:02 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = '2hcmrrun0fqhkd02pbi2505l37'
+2014/11/24 13:09:02 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('2hcmrrun0fqhkd02pbi2505l37', 'newdocker|s:32:"0211697a052a27ee86bf1f88b687531b";port|i:1117;server|s:12:"192.168.1.42";', '2014-11-24 13:09:02')
+2014/11/24 13:09:02 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:39:02'
+2014/11/24 13:09:02 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:39:02'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 fleetctl list-units | grep 4aa6857437d223265840d6cebfffcd78
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 127.0.0.1 cat fleetctl/4aa6857437d223265840d6cebfffcd78 | grep run
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'port|s:4:"1101";server|s:12:"192.168.1.91";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";docker|s:32:"4aa6857437d223265840d6cebfffcd78";', '2014-11-24 13:10:10')
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:10'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:40:10'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'port|s:4:"1101";server|s:12:"192.168.1.91";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";docker|s:32:"4aa6857437d223265840d6cebfffcd78";', '2014-11-24 13:10:10')
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:10'
+2014/11/24 13:10:10 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:40:10'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE id = 'spknu46t95g5k2j8gsqcph7ia0'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM users WHERE id = '8'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM dockers WHERE userid = '8'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 replace into `sessions` values('spknu46t95g5k2j8gsqcph7ia0', 'port|s:4:"1101";server|s:12:"192.168.1.91";token|s:64:"45d469bd4ec1eaa19e187159261b97f0d23ea39218de3ad8898e3e091a6552f1";userid|s:1:"8";docker|s:32:"4aa6857437d223265840d6cebfffcd78";', '2014-11-24 13:10:13')
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:13'
+2014/11/24 13:10:13 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 127.0.0.1 DELETE FROM sessions WHERE created < '2014-11-24 12:40:13'
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl start /root/fleetctl/44664f1b6e3ee98550dd5feaf2a20720
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/core/FleetCtl.php:] 192.168.251.71 Unit 44664f1b6e3ee98550dd5feaf2a20720.service launched on 98f3d166.../192.168.1.90
+
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:128] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','44664f1b6e3ee98550dd5feaf2a20720','zhou','1118','2014-11-24 13:10:31')
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 INSERT INTO dockers(userid,id,name,port,created) VALUES('11','44664f1b6e3ee98550dd5feaf2a20720','zhou','1118','2014-11-24 13:10:31')
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1118;server|s:12:"192.168.1.90";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:10:31')
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:31'
+2014/11/24 13:10:22 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:40:31'
+2014/11/24 13:10:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:10:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:10:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1118;server|s:12:"192.168.1.90";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:10:31')
+2014/11/24 13:10:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:31'
+2014/11/24 13:10:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:40:31'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = 's2h2cb8j3o2h7pp5548754h0v2'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('s2h2cb8j3o2h7pp5548754h0v2', 'port|i:1118;server|s:12:"192.168.1.90";token|s:64:"5900577e59d7efd90b06c39cd19a7f1e5463ac3c56c3c37373e4906d7821ab86";userid|s:2:"11";', '2014-11-24 13:10:36')
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:40:36'
+2014/11/24 13:10:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:40:36'
+2014/11/24 13:11:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', '', '2014-11-24 13:11:12')
+2014/11/24 13:11:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:12'
+2014/11/24 13:11:12 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:12'
+2014/11/24 13:11:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"097791067bec25538eaffb40015e64c31a0bb30ee7900211ab2008746910d05f";', '2014-11-24 13:11:15')
+2014/11/24 13:11:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:15'
+2014/11/24 13:11:15 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:15'
+2014/11/24 13:11:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:11:20 WARN [/home/bin117/workspace/docker/control/user_login.php:37] 192.168.251.71 zhou login fail
+2014/11/24 13:11:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"097791067bec25538eaffb40015e64c31a0bb30ee7900211ab2008746910d05f";error|s:11:"loginfailed";userinfo|s:54:"a:2:{s:8:"username";s:4:"zhou";s:4:"name";s:4:"zhou";}";', '2014-11-24 13:11:20')
+2014/11/24 13:11:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:21'
+2014/11/24 13:11:20 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:21'
+2014/11/24 13:11:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"fd292c97113498c6ef786f5422d33d29bcb0c1766d1c4bc8e2805083db577db2";', '2014-11-24 13:11:21')
+2014/11/24 13:11:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:21'
+2014/11/24 13:11:21 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:21'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:11:31 WARN [/home/bin117/workspace/docker/control/user_login.php:37] 192.168.251.71 zhou login fail
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"fd292c97113498c6ef786f5422d33d29bcb0c1766d1c4bc8e2805083db577db2";error|s:11:"loginfailed";userinfo|s:54:"a:2:{s:8:"username";s:4:"zhou";s:4:"name";s:4:"zhou";}";', '2014-11-24 13:11:31')
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:31'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:31'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"5ce4b75cabc0295c694085a4ef67230e6ac6f4405ee853da917827e9d402d05b";', '2014-11-24 13:11:31')
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:31'
+2014/11/24 13:11:31 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:31'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE username = 'zhou'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM cookies WHERE userid = '11'
+2014/11/24 13:11:36 INFO [/home/bin117/workspace/docker/control/user_login.php:33] 192.168.251.71 zhou login access
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"5ce4b75cabc0295c694085a4ef67230e6ac6f4405ee853da917827e9d402d05b";userid|s:2:"11";sucess|s:11:"loginsucess";', '2014-11-24 13:11:36')
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:36'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:36'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM dockers WHERE userid = '11'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"5ce4b75cabc0295c694085a4ef67230e6ac6f4405ee853da917827e9d402d05b";userid|s:2:"11";', '2014-11-24 13:11:36')
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:41:36'
+2014/11/24 13:11:36 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:41:36'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 fleetctl list-units | grep 44664f1b6e3ee98550dd5feaf2a20720
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/core/Ssh.php:] 192.168.251.71 cat fleetctl/44664f1b6e3ee98550dd5feaf2a20720 | grep run
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"5ce4b75cabc0295c694085a4ef67230e6ac6f4405ee853da917827e9d402d05b";userid|s:2:"11";docker|s:32:"44664f1b6e3ee98550dd5feaf2a20720";port|s:4:"1118";server|s:12:"192.168.1.90";', '2014-11-24 13:12:06')
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:42:06'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:42:06'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE id = '61ncfft7c90ii70o57aoe6ucv0'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM users WHERE id = '11'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 replace into `sessions` values('61ncfft7c90ii70o57aoe6ucv0', 'token|s:64:"5ce4b75cabc0295c694085a4ef67230e6ac6f4405ee853da917827e9d402d05b";userid|s:2:"11";docker|s:32:"44664f1b6e3ee98550dd5feaf2a20720";port|s:4:"1118";server|s:12:"192.168.1.90";', '2014-11-24 13:12:06')
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 SELECT * FROM sessions WHERE created < '2014-11-24 12:42:06'
+2014/11/24 13:12:06 DEBUG [/home/bin117/workspace/docker/model/DbModle.php:49] 192.168.251.71 DELETE FROM sessions WHERE created < '2014-11-24 12:42:06'

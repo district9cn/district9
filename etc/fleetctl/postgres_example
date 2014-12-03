@@ -1,0 +1,13 @@
+[Unit]
+Description=MyApp_postgres_name
+After=docker.service
+Requires=docker.service
+
+[Service]
+TimeoutStartSec=0
+#ExecStartPre=-/usr/bin/docker kill postgres_name
+#ExecStartPre=-/usr/bin/docker rm postgres_name
+
+ExecStartPre=/usr/bin/docker pull 192.168.1.18:5000/postgres/postgres
+ExecStart=/usr/bin/docker run --name postgres_name 192.168.1.18:5000/postgres/postgres
+ExecStop=/usr/bin/docker stop postgres_name

@@ -1,0 +1,13 @@
+[Unit]
+Description=MyApp_29bd3fe6f4bb2c1484d477fe189618bd
+After=docker.service
+Requires=docker.service
+
+[Service]
+TimeoutStartSec=0
+#ExecStartPre=-/usr/bin/docker kill 29bd3fe6f4bb2c1484d477fe189618bd
+#ExecStartPre=-/usr/bin/docker rm 29bd3fe6f4bb2c1484d477fe189618bd
+
+ExecStartPre=/usr/bin/docker pull 192.168.1.18:5000/ubuntu/ssh
+ExecStart=/usr/bin/docker run -p 1112:22 --name 29bd3fe6f4bb2c1484d477fe189618bd 192.168.1.18:5000/ubuntu/ssh
+ExecStop=/usr/bin/docker stop 29bd3fe6f4bb2c1484d477fe189618bd

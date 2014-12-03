@@ -1,0 +1,20 @@
+[Unit]
+Description=MyApp_owncloud_name
+After=docker.service
+Requires=docker.service
+
+[Service]
+TimeoutStartSec=0
+#ExecStartPre=-/usr/bin/docker kill owncloud_name
+#ExecStartPre=-/usr/bin/docker rm owncloud_name
+
+ExecStartPre=/usr/bin/docker pull 192.168.1.18:5000/owncloud/owncloud
+ExecStart=/usr/bin/docker run -p owncloud_port:80 --name owncloud_name --link postgres_name:db 192.168.1.18:5000/owncloud/owncloud
+ExecStop=/usr/bin/docker stop owncloud_name
+
+
+[X-Fleet]
+MachineOf=postgres_name.service
+
+
+#docker run -d -p 80:80 --name nginx --link postgresql:db -v /export/nginx/files:/var/www/owncloud/data 192.168.1.18:5000/owncloud/owncloud

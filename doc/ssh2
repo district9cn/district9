@@ -1,0 +1,3 @@
+apt-get install libssh2-1-dev libssh2-php
+php -m |grep ssh2
+service apache2 restart
