@@ -8,7 +8,7 @@
     $log = Plog::factory(__FILE__);
 
     $user = new UserModel();
-    $fleetctl = FleetCtl::getInstance();
+    $fleetctl = DockerCtlIns::get();
 
     if($user->getLog()) {
         $docker = new DockerModel();

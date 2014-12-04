@@ -25,7 +25,7 @@
                             'port' => $port,
                             'created'	=> date('Y-m-d H:i:s')));
             } else {
-                $fleetctl = FleetCtl::getInstance();
+                $fleetctl = DockerCtlIns::get();
                 $fleetctl->removeDocker($id);
             }
 

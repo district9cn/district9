@@ -6,7 +6,7 @@
 	 */
     require_once('init.php');
  
-	class FleetCtl {
+	class FleetCtl implements DockerCtlIf {
         protected $log,
                   $ssh,
                   $error = false,
@@ -74,7 +74,9 @@
 		/**
 		 * 根据配置文件启动一个docker
 		 */
-        public function createDocker($dockername) {
+        public function createDocker($dockername, $port) {
+            $this->getUbuntusshConfig($dockername, $port);
+
             $ubuntussh = $this->dirname . '/../temp/' . $dockername;
 
             $this->ssh->sendfile($ubuntussh, '/root/fleetctl/', 0777);

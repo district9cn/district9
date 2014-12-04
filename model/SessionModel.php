@@ -23,7 +23,7 @@
 		 */
 		public function __construct() {
 		    $this->db = DbModle::getInstance();
-            $this->fleetctl = FleetCtl::getInstance();
+            $this->fleetctl = DockerCtlIns::get();
             $this->docker = new DockerModel();
             $this->timeout = 30*60;
 

@@ -12,12 +12,12 @@
 			'password' 	=> 'mdsmds',
 			'dbname'	=> 'district9'
 		),
-			
+
 		'cookie' => array(
 			'hash' => 'hash',
 			'expire' => 7*24*60*60
 		),
-		
+
 		'session' => array(
 			'userid'=> 'userid',
 			'userinfo'=> 'userinfo',
@@ -31,17 +31,17 @@
 		),
 
 		'ssh' => array(
-			'host' 		=> '192.168.1.91',
-            'method'    => 'key',   #password/key
+			'host' 		=> '192.168.1.42',
+            'method'    => 'password',   #password/key
 			'username'	=> 'root',
-			'password' 	=> 'LiXiming345',
+			'password' 	=> 'mdsmds123',
 			'port'  	=> '22',
 			'rsa_key' 		=> '/home/bin117/workspace/docker/etc/ssh/id_rsa',
 			'rsa_pub' 		=> '/home/bin117/workspace/docker/etc/ssh/id_rsa.pub'
 		),
 
 		'fleetctl' => array(
-            'docker' => 'ubuntussh',        #owncloud / ubuntussh
+            'image' => 'ubuntussh',        #owncloud / ubuntussh
             'owncloud' => array (
                 'postgres_example' 		=> 'postgres_example',
                 'postgres_name'	=> 'postgres_name',
@@ -56,6 +56,11 @@
             )
 		),
 
+        'dockerctl' => array(
+            'image' => '350f7e75798a',
+            'server' => '192.168.1.42'
+        ),
+
         'docker' => array(
             'port' => array(
                 'min' 	=> 1024,
@@ -63,7 +68,8 @@
                 'except'  	=> array(4001, 7001)
             ),
             'username' => 'root',
-            'password' => '123456'
+            'password' => '123456',
+            'dockerctl' => 'dockerctl'         #dockerctl/fleetctl/kubernetes
         ),
 
         'sucess' => array(

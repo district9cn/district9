@@ -14,23 +14,13 @@
     
     if($user->getLog() && !empty($name)) {
         $userinfo = $user->getData();
-        $fleetctl = FleetCtl::getInstance();
+        $dockerctl = DockerCtlIns::get();
         $docker = new DockerModel();
         $dockername = Hash::salt();
         $port = Port::get();
 
-        switch (Config::get('fleetctl/docker')) {
-            case 'owncloud':
-                break;
-            case 'ubuntussh':
-                $fleetctl->getUbuntusshConfig($dockername, $port);
-                $server = $fleetctl->createDocker($dockername);
-                sleep(2);//waiting for docker start
-
-                break;
-        default:
-                break;
-        }
+        $server = $dockerctl->createDocker($dockername, $port);
+        sleep(2);//waiting for docker start
 
         if(empty($server)) {
             Port::release($port);

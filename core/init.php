@@ -11,9 +11,9 @@
     Plog::set_config(include '../plog/config.php');
 
 	//定义一个加载类文件函数
-	function __autoload($class) { 
-        if (in_array($class, array('Config', 'Cookie',  'Hash', 'Redirect', 'Session',
-                                    'Token', 'Validation', 'Ssh', 'FleetCtl', 'Port', 'Application'))) {
+	function __autoload($class) {
+        if (in_array($class, array('Config', 'Cookie',  'Hash', 'Redirect', 'Session', 'DockerCtlIns', 'DockerCtlIf',
+                                    'Token', 'Validation', 'Ssh', 'FleetCtl', 'Port', 'Application', 'DockerCtl'))) {
 		    require_once $class . '.php';
         }
 
@@ -21,7 +21,7 @@
 		    require_once '../model/' . $class . '.php';
         }
 	}
-	
+
     //开启session
     /*
     if(!isset($_SESSION)) {
@@ -47,7 +47,7 @@
     }
 
     //数据过滤函数
-  	function escape($string = '') {
+    function escape($string = '') {
         $db = DbModle::getInstance();
 		if (!empty($string)) {
 			return mysql_real_escape_string(htmlentities($string, ENT_QUOTES, 'utf-8'));

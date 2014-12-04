@@ -6,17 +6,16 @@
 	 */
     require_once('../core/init.php');
     $log = Plog::factory(__FILE__);
-
     $user = new UserModel();
-    $fleetctl = FleetCtl::getInstance();
+    $dockerctl = DockerCtlIns::get();
     $server = '';
     $port;
 
     if($user->getLog()) {
         $dockername = isset($_GET['id']) ? $_GET['id'] : '';
         if(!empty($dockername)) {
-            $server = $fleetctl->getServer($dockername);
-            $port = $fleetctl->getPort($dockername);
+            $server = $dockerctl->getServer($dockername);
+            $port = $dockerctl->getPort($dockername);
         } else {
             Session::create(Config::get('session/error'), 'lunchfailed');
             Redirect::go('../view/');
@@ -30,18 +29,8 @@
             $dockername = Hash::salt();
             $port = Port::get();
 
-            switch (Config::get('fleetctl/docker')) {
-                case 'owncloud':
-                    break;
-                case 'ubuntussh':
-                    $fleetctl->getUbuntusshConfig($dockername, $port);
-                    $server = $fleetctl->createDocker($dockername);
-                    sleep(2); // waiting for docker lunch
-
-                    break;
-            default:
-                    break;
-            }
+            $server = $dockerctl->createDocker($dockername, $port);
+            sleep(2); // waiting for docker lunch
 
             if(empty($server)) {
                 Port::release($port);
